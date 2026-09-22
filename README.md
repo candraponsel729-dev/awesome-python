@@ -40,7 +40,7 @@ from cryptography.hazmat.primitives import serialization
 
 # ♾️ INFINITE CORE MODULES
 @dataclass
-class Shadow mode:
+class ShadowNode:
 
 # [Awesome Python](https://awesome-python.com/)
 
